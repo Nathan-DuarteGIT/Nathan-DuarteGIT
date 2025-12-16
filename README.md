@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o Nathan Duarte!
+##👋 Olá, eu sou o Nathan Duarte!
 Sou estudante de programação no IPSantarém, apaixonado por transformar lógica em soluções funcionais. Embora o meu foco principal seja o Back-End, adoro o desafio de construir interfaces modernas e atualmente estou a aventurar-me no ecossistema React.
 
 🚀 Sobre Mim
